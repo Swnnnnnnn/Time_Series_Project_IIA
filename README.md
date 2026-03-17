@@ -15,9 +15,7 @@ The goal of our project was to evaluate the ability of the IIA framework to reco
 ## 🛠️ Our Contributions
 While we reused approximately 50% of the original authors' source code as our foundational model, we made significant contributions to adapt it to our specific use case:
 * **Custom Data Pipeline:** Developed scripts for unsupervised feature extraction on high-dimensional stock market data.
-* **Sensitivity Analysis:** Modified the code on simulated data to evaluate the influence of key parameters and identify the method's limitations.
-* **Task Distribution:** * *Swann Cordier* focused on the implementation and analysis of the **IIA-TCL** algorithm (based on temporal segments).
-  * *Baran Celik* focused on the **IIA-GCL** algorithm (based on continuous time indices).
+* **Sensitivity Analysis:** Modified the code on simulated data to evaluate the influence of key parameters and identify the method's limitations..
 
 ## 📊 Datasets Used
 * **Simulated Data (NVAR):** Used to validate the implementation and explore the algorithm's sensitivity.
