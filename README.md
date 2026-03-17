@@ -4,6 +4,7 @@
 **Authors:** Baran Celik & Swann Cordier
 
 ### 📄 [Click here to read our full project report (PDF)](./Project_Time_Series.pdf)
+### 📽️ [Click here to view our presentation slides (in French)](./Soutenance_TS.pdf)
 
 ---
 
